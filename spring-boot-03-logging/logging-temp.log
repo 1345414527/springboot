@@ -1,0 +1,7 @@
+2020-03-09 15:00:11.950  INFO 8364 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on DESKTOP-9OA94FJ with PID 8364 (started by DELL in D:\workspace\SpringBoot\spring-boot-03-logging)
+2020-03-09 15:00:11.952 DEBUG 8364 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-09 15:00:11.953  INFO 8364 --- [main] .a.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-03-09 15:00:15.924  INFO 8364 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-09 15:00:17.053  INFO 8364 --- [main] .a.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 6.266 seconds (JVM running for 8.717)
+2020-03-09 15:00:17.769 TRACE 8364 --- [main] .a.s.SpringBoot03LoggingApplicationTests : 只是一个trace日志
+2020-03-09 15:00:17.808  INFO 8364 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
